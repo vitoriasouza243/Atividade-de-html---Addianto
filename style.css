@@ -1,0 +1,121 @@
+html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-family: sans-serif;
+}
+h5{
+    font-size: 30px;
+    color: #fff;
+}
+
+body {
+    line-height: 1;
+    background-color: #3f51b5;
+}
+div{
+    margin: 20px;
+}
+
+.fa-solid.fa-circle-info{
+    top: 77px;
+    padding-left: 30px;
+    color: #fff;
+    position: absolute;
+}
+
+.fa-sharp.fa-solid.fa-circle-check{
+    top: 228px;
+    padding-left: 30px;
+    color: #fff;
+    position: absolute;
+}
+.fa-solid.fa-circle-exclamation{
+    top: 378px;
+    padding-left: 30px;
+    color: #fff;
+    position: absolute;
+}
+.fa-solid.fa-circle-xmark{
+    top: 528px;
+    padding-left: 30px;
+    color: #fff;
+    position: absolute;
+}
+
+div.message-1{
+     width: 1200px;
+    height: 100px;
+    background-color: #9c28b1;
+}
+
+.message-1 h5{
+    padding-top: 35px;
+    padding-left: 100px;
+}
+
+div.message-2{
+    width: 1200px;
+    height: 100px;
+    background-color: #4cb050;
+
+}
+.message-2 h5{
+    padding-top: 35px;
+    padding-left: 100px;
+}
+
+div.message-3{
+     width: 1200px;
+    height: 100px;
+    background-color: #ff9700;
+    
+}
+.message-3 h5{
+    padding-top: 35px;
+    padding-left: 100px;
+}
+
+div.message-4{
+    width: 1200px;
+    height: 100px;
+    background-color: #e51c24;
+}
+.message-4 h5{
+    padding-top: 35px;
+    padding-left: 100px;
+}
+
+.message-1:hover{
+    color: #9c28b1;
+    background-color: #d380e2;
+}
+.message-2:hover{
+    background-color: #7ddd80;
+}
+.message-3:hover{
+    background-color: #f3b14e;
+}
+.message-4:hover{
+    background-color: #f16a6f;
+}
+.fa-solid.fa-circle-info{
+    top: 77px;
+    padding-left: 30px;
+    color: #fff;
+    position: absolute;
+}
+
+.fa-solid.fa-circle-info:hover{
+    color: #9c28b1;
+}
+.fa-sharp.fa-solid.fa-circle-check:hover{
+  color: #4cb050;
+}
+.fa-solid.fa-circle-exclamation:hover{
+    color: #ff9700;
+}
+.fa-solid.fa-circle-xmark:hover{
+   color: #e51c24;
+}
