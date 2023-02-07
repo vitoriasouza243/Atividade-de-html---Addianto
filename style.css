@@ -119,3 +119,36 @@ div.message-4{
 .fa-solid.fa-circle-xmark:hover{
    color: #e51c24;
 }
+
+#x1{
+    top: 55px;
+    left: 85%;
+    position: absolute;
+    color: #fff;
+    opacity: 0.5;
+  
+}
+
+#x2{
+    top: 206px;
+    left: 85%;
+    position: absolute;
+    color: #fff;
+    opacity: 0.5;
+}
+
+#x3{
+    top: 355px;
+    left: 85%;
+    position: absolute;
+    color: #fff;
+    opacity: 0.5;
+}
+
+#x4{
+    top: 500px;
+    left: 85%;
+    position: absolute;
+    color: #fff;
+    opacity: 0.5;
+}
